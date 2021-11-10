@@ -1,0 +1,29 @@
+*{background-color: lightblue;}
+
+
+#para1 {
+	text-align: left;
+	text-indent: 1;
+	word-spacing: 3;
+	letter-spacing: 5;
+	font-family: monospace;
+	text-decoration: underline;
+	color: black;
+}
+
+.myclass{
+	color: black;
+	text-align: center;
+}
+
+p.myclass{
+	text-decoration: underline;
+}
+
+.work{
+	color: black;
+	text-align: center;
+}
+p.work{
+	text-decoration: underline;
+}
